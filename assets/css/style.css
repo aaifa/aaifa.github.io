@@ -1002,8 +1002,8 @@ section {
   border-radius: 50%;
   border-bottom: 8px solid;
   border-bottom-color: #ffcc99;
-  border-top: 8px solid;
-  border-top-color: #ffcc99;
+  border: 8px solid;
+  border: #ffcc99;
 }
 
 #team .member h4 {

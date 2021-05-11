@@ -998,7 +998,7 @@ section {
 }
 
 #team .member .pic img {
-  max-width: 70%;
+  max-width: 50%;
   border-radius: 50%;
   border-bottom: 8px solid;
   border-bottom-color: #ffcc99;
